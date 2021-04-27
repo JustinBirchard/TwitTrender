@@ -5,7 +5,9 @@ A csv file containing the data will also be created.
 
 ### Requirements
 wordcloud == 1.8.0
+
 imageio == 2.9.0
+
 tweepy == 3.9.0
 
 ### Instructions
