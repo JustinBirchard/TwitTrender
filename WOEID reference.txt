@@ -1,0 +1,24 @@
+# httpswww.findmecity.com
+# httpsgist.github.comlukemelia353493
+
+# World 1
+# USA 23424977
+# Canada 23424775
+# Costa Rica 23424791
+# France 23424819
+# Mexico 23424900
+# UK 23424975
+# Japan 23424856
+# India 23424848
+# South Africa 23424942
+# Australia 23424748
+
+# Albuquerque 2352824
+# Chicago 2379574
+# Ithaca 2427936
+# San Fran 2487956
+# Boston 2367105
+# Denver 2391279
+# Wichita 2520077
+# Buffalo 2371464
+# New York 2459115
