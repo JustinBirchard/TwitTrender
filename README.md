@@ -3,6 +3,11 @@ Generates a colorful wordcloud image from location-based trending Twitter topics
 Choose from list of countries or cities. Wordcloud will be shaped in the image of the selected region. 
 A csv file containing the data will also be created.
 
+### Requirements
+wordcloud == 1.8.0
+imageio == 2.9.0
+tweepy == 3.9.0
+
 ### Instructions
 Users will need to add their own Twitter API credentials to the 'keys.py' file. The API is free and you can apply to receive access by visiting: https://developer.twitter.com
 
